@@ -1,0 +1,15 @@
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\bin\Debug\net6.0\DesafioIR.exe
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\bin\Debug\net6.0\DesafioIR.deps.json
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\bin\Debug\net6.0\DesafioIR.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\bin\Debug\net6.0\DesafioIR.dll
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\bin\Debug\net6.0\DesafioIR.pdb
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\DesafioIR.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\DesafioIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\DesafioIR.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\DesafioIR.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\DesafioIR.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\DesafioIR.dll
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\refint\DesafioIR.dll
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\DesafioIR.pdb
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\DesafioIR.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp\DesafioIR\DesafioIR\obj\Debug\net6.0\ref\DesafioIR.dll

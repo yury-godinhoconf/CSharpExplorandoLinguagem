@@ -1,0 +1,15 @@
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.exe
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.deps.json
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.runtimeconfig.json
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.dll
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\bin\Debug\net6.0\DesafioMultiplo3.pdb
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.csproj.AssemblyReference.cache
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.AssemblyInfoInputs.cache
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.AssemblyInfo.cs
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.csproj.CoreCompileInputs.cache
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.dll
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\refint\DesafioMultiplo3.dll
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.pdb
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\DesafioMultiplo3.genruntimeconfig.cache
+C:\Projetos\TreinamentoAluraCSharp\DesafioMultiplo3\DesafioMultiplo3\obj\Debug\net6.0\ref\DesafioMultiplo3.dll
